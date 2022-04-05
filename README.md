@@ -26,6 +26,7 @@ RegisterNumber:  212219040132
 
 
 Output:
+
 ![2](https://user-images.githubusercontent.com/67967960/161791690-ba724c0d-20cc-4bd9-839c-231d85f9b3af.jpg)
 
 
